@@ -1,0 +1,38 @@
+2018-09-05 16:59:14-DEBUG: 1.输入用户名: paljb
+ [AutoWeb.py:18]
+2018-09-05 16:59:14-DEBUG: 2.输入密码: 1234@abcd
+ [AutoWeb.py:18]
+2018-09-05 16:59:14-DEBUG: 3.点击"登录"
+ [AutoWeb.py:18]
+2018-09-05 16:59:15-DEBUG: 4.sleep: 7.0
+ [AutoWeb.py:18]
+2018-09-05 16:59:22-DEBUG: 5.验证包含: 首页
+ [AutoWeb.py:18]
+2018-09-05 16:59:33-DEBUG: 6.点击"退出"
+ [AutoWeb.py:18]
+2018-09-05 16:59:34-DEBUG: 7.点击"确定"
+ [AutoWeb.py:18]
+2018-09-05 16:59:48-DEBUG: 1.输入用户名: paljb
+ [AutoWeb.py:18]
+2018-09-05 16:59:48-DEBUG: 2.输入密码: 1234@abcd
+ [AutoWeb.py:18]
+2018-09-05 16:59:49-DEBUG: 3.点击"登录"
+ [AutoWeb.py:18]
+2018-09-05 16:59:49-DEBUG: 4.sleep: 7.0
+ [AutoWeb.py:18]
+2018-09-05 16:59:56-DEBUG: 5.验证包含: 首页
+ [AutoWeb.py:18]
+2018-09-05 17:00:06-DEBUG: 6.点击"系统管理"
+ [AutoWeb.py:18]
+2018-09-05 17:00:06-DEBUG: 7.点击"用户管理"
+ [AutoWeb.py:18]
+2018-09-05 17:00:07-DEBUG: 8.sleep: 5.0
+ [AutoWeb.py:18]
+2018-09-05 17:00:12-DEBUG: 9.输入查询用户名: paljb
+ [AutoWeb.py:18]
+2018-09-05 17:00:12-DEBUG: 10.点击"查询"
+ [AutoWeb.py:18]
+2018-09-05 17:00:12-DEBUG: 11.sleep: 5.0
+ [AutoWeb.py:18]
+2018-09-05 17:00:17-DEBUG: 12.验证包含: 平安刘劲柏
+ [AutoWeb.py:18]

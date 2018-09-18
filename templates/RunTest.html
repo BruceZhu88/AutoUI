@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+{% block title %}Run Test{% endblock %}
+
+{% block page_content %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/run-test.css') }}">
+
+<div style="float: left; padding: 0px 20px;">
+    <h2>Test Case Suit: </h2>
+    <select id="select_case" size="12" ondblclick="SelectSteps()" title="Double Click to load!"></select>
+    <br>
+    <button id="btn_run" style="margin-top:20px;background-color: gray;">Run</button>
+
+</div>
+
+<div id="running_status" style="float: left;">
+    <h2>Running Status：</h2>
+    <div id="running_status_content">
+        <table>
+            <tbody id="running_status_tbody">
+                <tr align="center">
+                    <td><div class="cell">ID</div></td>
+                    <td><div class="cell">Name</div></td>
+                    <td><div class="cell">Status</div></td>
+                    <td><div class="cell">Start Time</div></td>
+                    <td><div class="cell">Over Time</div></td>
+                    <td><div class="cell">Test Report</div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+{% endblock %}
+
+
+{% block scripts %}
+<script src="static/js/run-test.js"></script>
+{% endblock %}

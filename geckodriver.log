@@ -1,0 +1,982 @@
+1535686088464	geckodriver	INFO	geckodriver 0.21.0
+1535686088479	geckodriver	INFO	Listening on 127.0.0.1:60980
+1535686091493	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "D:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.GibHVFTWzrdG"
+Attempt to load overlay chrome://addoninstaller/content/overlay.xul into chrome://browser/content/browser.xul
+1535686095739	Marionette	INFO	Listening on port 65256
+1535686096463	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://im.szmqs.gov.cn/oa/static/oa/js/security.js, line 202: TypeError: s is undefined
+1535686113944	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+1535686117015	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 19948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 18128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535686185514	geckodriver	INFO	geckodriver 0.21.0
+1535686185528	geckodriver	INFO	Listening on 127.0.0.1:57538
+1535686188548	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "D:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.xn62LVx7h8Yh"
+Attempt to load overlay chrome://addoninstaller/content/overlay.xul into chrome://browser/content/browser.xul
+1535686192308	Marionette	INFO	Listening on port 57546
+1535686192842	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1535686211683	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+1535686214573	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535686455671	geckodriver	INFO	geckodriver 0.21.0
+1535686455689	geckodriver	INFO	Listening on 127.0.0.1:61782
+1535686458710	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "D:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.ppLjRzFn7u0u"
+Attempt to load overlay chrome://addoninstaller/content/overlay.xul into chrome://browser/content/browser.xul
+1535686462654	Marionette	INFO	Listening on port 61790
+1535686463309	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6076, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 19336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535686477046	geckodriver	INFO	geckodriver 0.21.0
+1535686477066	geckodriver	INFO	Listening on 127.0.0.1:61823
+1535686480067	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "D:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.73wTDLvSWEeS"
+Attempt to load overlay chrome://addoninstaller/content/overlay.xul into chrome://browser/content/browser.xul
+1535686483732	Marionette	INFO	Listening on port 61831
+1535686484520	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1535686502295	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 109"  data: no]
+1535686505454	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 18812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from D:\Users\ZHUJIALIN272\AppData\Local\openvr\openvrpaths.vrpath
+1535773613666	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535773613713	geckodriver	INFO	Listening on 127.0.0.1:49756
+1535773616927	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.5uotludNA0j1"
+[Child 3204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535773645414	Marionette	INFO	Listening on port 49764
+1535773646419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1535773668238	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535773670690	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535773670706	geckodriver	INFO	Listening on 127.0.0.1:49833
+1535773673701	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.ELGdpGqMyULa"
+1535773679226	Marionette	INFO	Listening on port 49841
+1535773679267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 4356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535780254853	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535780254869	geckodriver	INFO	Listening on 127.0.0.1:50162
+1535780257848	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.Rmi2HqyZAfwi"
+1535780263116	Marionette	INFO	Listening on port 50170
+1535780263410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 11092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 6360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535780278839	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535780278855	geckodriver	INFO	Listening on 127.0.0.1:50201
+1535780281936	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.fk7SdVKc57Vg"
+1535780287061	Marionette	INFO	Listening on port 50209
+1535780287488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1535780521070	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535780521148	geckodriver	INFO	Listening on 127.0.0.1:50245
+1535780524127	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.QgEp0sP4VBDt"
+1535780529390	Marionette	INFO	Listening on port 50253
+1535780529818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 11492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535782608892	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535782608908	geckodriver	INFO	Listening on 127.0.0.1:50867
+1535782611965	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.behmV73ipHZ8"
+1535782617398	Marionette	INFO	Listening on port 50875
+1535782617537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 11276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10900, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 10900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Thread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 13160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535782859831	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535782859956	geckodriver	INFO	Listening on 127.0.0.1:51003
+1535782862753	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.boyJ6JLETeSe"
+1535782869572	Marionette	INFO	Listening on port 51014
+1535782870065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 14080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 10976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535782884109	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535782884109	geckodriver	INFO	Listening on 127.0.0.1:51055
+1535782887153	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.46IhlDTybkzX"
+1535782890992	Marionette	INFO	Listening on port 51063
+1535782891108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 11864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535782912872	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 14152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535782912890	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1535782912895	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 12664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535958881567	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535958881738	geckodriver	INFO	Listening on 127.0.0.1:62497
+1535958884718	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.h3uwSYjj5dcC"
+[Parent 14136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535958910289	Marionette	INFO	Listening on port 62508
+1535958911171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 13332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14136, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535958942439	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1535958942439	geckodriver	INFO	Listening on 127.0.0.1:62630
+1535958945465	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.g9XweHwRYQvv"
+1535958951768	Marionette	INFO	Listening on port 62647
+1535958952192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Parent 15000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536046519154	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536046519291	geckodriver	INFO	Listening on 127.0.0.1:58090
+1536046522267	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.TWXzfpMDDrFY"
+[Parent 8872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 39268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8872, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1536046560286	Marionette	INFO	Listening on port 58102
+1536046560863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 8872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536046592635	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 8872, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536046594821	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536046594852	geckodriver	INFO	Listening on 127.0.0.1:58275
+1536046597707	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.u5E97ctnColK"
+1536046603447	Marionette	INFO	Listening on port 58287
+1536046603832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536046650556	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 44656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 44096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 44096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 44376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536048685271	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536048685302	geckodriver	INFO	Listening on 127.0.0.1:61301
+1536048688202	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.jgGhoSnd9iR9"
+1536048694234	Marionette	INFO	Listening on port 61314
+1536048694404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536048696625	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536049037437	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536049037462	geckodriver	INFO	Listening on 127.0.0.1:61840
+1536049040502	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.Gi1yugWM28p3"
+1536049045433	Marionette	INFO	Listening on port 61853
+1536049045561	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+1536049045664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536049323817	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536049323849	geckodriver	INFO	Listening on 127.0.0.1:62279
+1536049326623	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.rFfultbZ8kLS"
+1536049335963	Marionette	INFO	Listening on port 62291
+1536049336570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 43932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 36580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 41740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 43140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536049362921	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536049362937	geckodriver	INFO	Listening on 127.0.0.1:62374
+1536049365854	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.94ytlhfVrs13"
+1536049371130	Marionette	INFO	Listening on port 62386
+1536049371435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 25528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 44280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 32624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 44280, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1536049536973	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536049537012	geckodriver	INFO	Listening on 127.0.0.1:62659
+1536049539820	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.OsErKSetCrai"
+1536049545711	Marionette	INFO	Listening on port 62671
+1536049546083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Parent 34168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 44780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536049565925	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1536049565950	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1536049565950	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 35284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 45048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536049569826	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536049569888	geckodriver	INFO	Listening on 127.0.0.1:62752
+1536049572774	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.DCjZDCMM4HEx"
+1536049577734	Marionette	INFO	Listening on port 62764
+1536049577920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536049623253	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 44852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 43304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 42176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 43304, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 37648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536051673595	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536051673607	geckodriver	INFO	Listening on 127.0.0.1:49330
+1536051676322	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.xkasiHHI63XZ"
+1536054748895	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536054748895	geckodriver	INFO	Listening on 127.0.0.1:53811
+1536054751954	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.BUqqFJ3iZ2UO"
+1536054763798	Marionette	INFO	Listening on port 53826
+[Child 45396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536054763840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 42052, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 42052, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Parent 42052, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[46356, Chrome_ChildThread] WARNING: failed to create pipe: 2: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[46356, Chrome_ChildThread] WARNING: Unable to create pipe named "42052.34.1331032061\288044656" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+1536059072241	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059072255	geckodriver	INFO	Listening on 127.0.0.1:59966
+1536059075207	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.g3y5aBvzJ3Lx"
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+1536059200072	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059200260	geckodriver	INFO	Listening on 127.0.0.1:60206
+1536059202741	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.foE4CCCkGYk3"
+1536059209021	Marionette	INFO	Listening on port 60219
+1536059209516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1536059236216	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 46476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 46476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 46256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536059242496	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059242543	geckodriver	INFO	Listening on 127.0.0.1:60323
+1536059245398	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.f8k3sA9BVi53"
+1536059252125	Marionette	INFO	Listening on port 60335
+1536059252237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Parent 47656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 47656, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536059531058	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059531137	geckodriver	INFO	Listening on 127.0.0.1:60840
+1536059533916	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.vB66iVeFwQl3"
+1536059539613	Marionette	INFO	Listening on port 60852
+1536059540221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 48616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 48792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536059565341	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059565356	geckodriver	INFO	Listening on 127.0.0.1:60936
+1536059568383	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.2BkuoZ0cAppb"
+1536059572992	Marionette	INFO	Listening on port 60948
+1536059573481	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Parent 48992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 48992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 46428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536059902513	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059902700	geckodriver	INFO	Listening on 127.0.0.1:61482
+1536059905489	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.elLdHlZxV4sy"
+1536059909963	Marionette	INFO	Listening on port 61495
+1536059910031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 47268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 45644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 47268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 47652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 47652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 47268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 46984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 46580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536059933120	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536059933229	geckodriver	INFO	Listening on 127.0.0.1:61570
+1536059936208	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.W2FCpQyJKRdu"
+1536059941298	Marionette	INFO	Listening on port 61582
+1536059941306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536059988008	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 43628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 43628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 48672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 48672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 45228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536113454147	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536113454147	geckodriver	INFO	Listening on 127.0.0.1:54502
+1536113456808	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.KU046wCifiNd"
+[Child 62960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 62960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 65012, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1536113481375	Marionette	INFO	Listening on port 54516
+1536113482031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 65012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 65012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 65012, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 62928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 62928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 65012, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 65520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536113518272	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536113518381	geckodriver	INFO	Listening on 127.0.0.1:54650
+1536113521345	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.annZKCr3LKae"
+1536113527146	Marionette	INFO	Listening on port 54662
+1536113527488	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536113572583	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 39856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 39856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 64208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4B0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1536114054801	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536114054843	geckodriver	INFO	Listening on 127.0.0.1:55449
+1536114057631	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.BsWbRwjp0Gj0"
+1536114064254	Marionette	INFO	Listening on port 55463
+1536114064384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 60132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 61516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 64420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 61728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536114088439	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536114088439	geckodriver	INFO	Listening on 127.0.0.1:55537
+1536114091509	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.ATn8cjBLn77v"
+1536114097172	Marionette	INFO	Listening on port 55549
+1536114097273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 66564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536114129824	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 66004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 66004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 66268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4B0004,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1536114737260	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536114737287	geckodriver	INFO	Listening on 127.0.0.1:56588
+1536114740229	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.Ekh0UUKo6fnx"
+1536114745777	Marionette	INFO	Listening on port 56602
+1536114745867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 66980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536114770208	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 64428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536114771299	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536114771314	geckodriver	INFO	Listening on 127.0.0.1:56676
+1536114774356	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.yYQgzaIbpU7L"
+1536114779467	Marionette	INFO	Listening on port 56688
+1536114779929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536114825044	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 64092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 65836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536115006838	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536115006866	geckodriver	INFO	Listening on 127.0.0.1:57054
+1536115009766	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.zfFpzbKQhX9D"
+1536115015775	Marionette	INFO	Listening on port 57066
+1536115015991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 64800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 66256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 66256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 66256, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536115039322	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536115039431	geckodriver	INFO	Listening on 127.0.0.1:57141
+1536115042382	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.W2ZwMeKGeqgv"
+1536115048557	Marionette	INFO	Listening on port 57153
+1536115049084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 67500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 43420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 63800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 43420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536115257898	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536115258118	geckodriver	INFO	Listening on 127.0.0.1:57525
+1536115260965	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.OSQ5UqYwlQLQ"
+1536115266066	Marionette	INFO	Listening on port 57539
+1536115266785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 65688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 63956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536115290197	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536115290213	geckodriver	INFO	Listening on 127.0.0.1:57612
+1536115293239	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.VG05npyszyhu"
+1536115298354	Marionette	INFO	Listening on port 57624
+1536115298768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 63672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 63672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536115332274	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 67412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 67412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 66024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536116621160	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536116621204	geckodriver	INFO	Listening on 127.0.0.1:59772
+1536116623962	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.ujs3uUDl5hz2"
+1536116635980	Marionette	INFO	Listening on port 59785
+1536116636268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 66928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536116662386	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 67368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 66120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536116664290	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536116664368	geckodriver	INFO	Listening on 127.0.0.1:59906
+1536116667379	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.pDYc6kmdeq2c"
+1536116672962	Marionette	INFO	Listening on port 59918
+1536116673166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536116717680	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 65800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 65800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 64940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536116978417	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536116978573	geckodriver	INFO	Listening on 127.0.0.1:60393
+1536116981431	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.kJlrP1GqWL7Y"
+1536116987331	Marionette	INFO	Listening on port 60407
+1536116987701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 67524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536117012787	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 66404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 66696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536117014443	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536117014521	geckodriver	INFO	Listening on 127.0.0.1:60492
+1536117017532	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.Ds2Ru4qi05I4"
+1536117023110	Marionette	INFO	Listening on port 60504
+1536117023199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536117067945	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 66348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 48288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 67372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 52816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 67372, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1536117316684	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536117316743	geckodriver	INFO	Listening on 127.0.0.1:60999
+1536117319456	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.a5pKMJFJAMYB"
+1536117373839	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536117373854	geckodriver	INFO	Listening on 127.0.0.1:61102
+1536117376889	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.4VnUUnTkn0eV"
+1536117445921	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536117445936	geckodriver	INFO	Listening on 127.0.0.1:61222
+1536117448980	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.apSBpNrfTzbn"
+1536117453130	Marionette	INFO	Listening on port 61237
+1536117453372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 65540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+[Child 65268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1536117474791	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 66824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536117474801	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 67452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1536117477381	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536117477490	geckodriver	INFO	Listening on 127.0.0.1:61314
+1536117480469	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.OsTv3AJGEInA"
+1536117485472	Marionette	INFO	Listening on port 61326
+1536117485608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+1536117531250	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 65672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 67212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 66624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 65672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536137905267	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536137905314	geckodriver	INFO	Listening on 127.0.0.1:63485
+1536137907775	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.5KbO109BUTGS"
+[Child 70416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 70416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 71972, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+1536137942972	Marionette	INFO	Listening on port 63495
+1536137944008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 73256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536137975521	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 71972, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 73700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 73700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 72120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 72120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1536137977491	geckodriver	INFO	geckodriver 0.21.0 (c7d3022be6420de1ca4076d932aa32b299f3ea10 2018-06-14)
+1536137977522	geckodriver	INFO	Listening on 127.0.0.1:63574
+1536137980444	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ZHUJIA~1\\AppData\\Local\\Temp\\rust_mozprofile.LmdRqQ2QCFPJ"
+1536137985928	Marionette	INFO	Listening on port 63582
+1536137986104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/static/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+JavaScript warning: https://im.szmqs.gov.cn/oa/main.html#/, line 1209: unreachable code after return statement
+[Child 72852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 72852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1536138017806	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 68652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 68652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 70852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 72724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

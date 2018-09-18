@@ -1,0 +1,16 @@
+
+#select_case{
+    width: 300px;
+    height: 300px;
+}
+
+#running_status_content{
+    float: left;
+    width: 800px;
+    height: 300px;
+    margin-bottom: 5px;
+}
+
+td{
+    padding: 10px;
+}

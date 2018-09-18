@@ -1,0 +1,73 @@
+2018-09-05 10:55:25-DEBUG: hello [app.py:26]
+2018-09-05 10:55:34-DEBUG: hello [app.py:26]
+2018-09-05 10:55:35-DEBUG: hello [app.py:26]
+2018-09-05 11:02:01-INFO: Connecting with your phone ... [AutoApp.py:21]
+2018-09-05 11:02:15-DEBUG: 1.输入用户名: zhujialin001
+ [AutoApp.py:35]
+2018-09-05 11:02:27-DEBUG: 2.输入密码: user1234
+ [AutoApp.py:35]
+2018-09-05 11:02:34-DEBUG: 3.点击"登录"
+ [AutoApp.py:35]
+2018-09-05 11:02:35-DEBUG: 4.验证包含: 朱家林
+ [AutoApp.py:35]
+2018-09-05 11:02:41-DEBUG: 5.点击导航: 我
+ [AutoApp.py:35]
+2018-09-05 11:02:42-DEBUG: 6.点击"退出"
+ [AutoApp.py:35]
+2018-09-05 11:02:43-DEBUG: 7.点击"确定"
+ [AutoApp.py:35]
+2018-09-05 11:15:16-DEBUG: why [RunCase.py:66]
+2018-09-05 11:32:29-INFO: Connecting with your phone ... [AutoApp.py:21]
+2018-09-05 11:32:38-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.gov.mo.client' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Cannot start the 'com.gov.mo.client' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: Activity name '.com.paic.mo.client.module.mologin.accountlogin.SplashActivity' used to start the app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+ [AutoApp.py:31]
+2018-09-05 11:39:53-INFO: Connecting with your phone ... [AutoApp.py:21]
+2018-09-05 11:40:01-DEBUG: 1.输入用户名: zhujialin001
+ [AutoApp.py:35]
+2018-09-05 11:40:12-DEBUG: 2.输入密码: user1234
+ [AutoApp.py:35]
+2018-09-05 11:40:20-DEBUG: 3.点击"登录"
+ [AutoApp.py:35]
+2018-09-05 11:40:20-DEBUG: 4.验证包含: 朱家林
+ [AutoApp.py:35]
+2018-09-05 11:40:28-DEBUG: 5.点击导航: 我
+ [AutoApp.py:35]
+2018-09-05 11:40:29-DEBUG: 6.点击"退出"
+ [AutoApp.py:35]
+2018-09-05 11:40:30-DEBUG: 7.点击"确定"
+ [AutoApp.py:35]
+2018-09-05 11:40:45-DEBUG: Error screenshot path: ./log/screenshot/click_error_0905114045.png
+ [AutoApp.py:35]
+2018-09-05 11:45:38-INFO: Connecting with your phone ... [AutoApp.py:21]
+2018-09-05 11:45:46-DEBUG: 1.输入用户名: zhujialin001
+ [AutoApp.py:35]
+2018-09-05 11:45:58-DEBUG: 2.输入密码: user1234
+ [AutoApp.py:35]
+2018-09-05 11:46:05-DEBUG: 3.点击"登录"
+ [AutoApp.py:35]
+2018-09-05 11:46:06-DEBUG: 4.验证包含: 朱家林
+ [AutoApp.py:35]
+2018-09-05 11:46:13-DEBUG: 5.点击导航: 我
+ [AutoApp.py:35]
+2018-09-05 11:46:13-DEBUG: 6.点击"退出"
+ [AutoApp.py:35]
+2018-09-05 11:46:14-DEBUG: 7.点击"确定"
+ [AutoApp.py:35]
+2018-09-05 17:13:34-INFO: Connecting with your phone ... [AutoApp.py:21]
+2018-09-05 17:13:39-ERROR: Cannot connect to your phone: HTTPConnectionPool(host='127.0.0.1', port=4722): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x036D7290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)) [AutoApp.py:31]
+2018-09-05 17:14:54-INFO: Connecting with your phone ... [AutoApp.py:21]
+2018-09-05 17:15:05-DEBUG: 1.输入用户名: zhujialin001
+ [AutoApp.py:35]
+2018-09-05 17:15:17-DEBUG: 2.输入密码: user1234
+ [AutoApp.py:35]
+2018-09-05 17:15:24-DEBUG: 3.点击"登录"
+ [AutoApp.py:35]
+2018-09-05 17:15:25-DEBUG: 4.验证包含: 朱家林
+ [AutoApp.py:35]
+2018-09-05 17:15:31-DEBUG: 5.点击导航: 我
+ [AutoApp.py:35]
+2018-09-05 17:15:33-DEBUG: 6.点击"退出"
+ [AutoApp.py:35]
+2018-09-05 17:15:34-DEBUG: 7.点击"确定"
+ [AutoApp.py:35]
+2018-09-05 17:15:49-DEBUG: Error screenshot path: ./log/screenshot/click_error_0905171549.png
+ [AutoApp.py:35]
