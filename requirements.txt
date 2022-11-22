@@ -1,5 +1,5 @@
 Appium-Python-Client==0.28
-Pillow==5.2.0
+Pillow==9.3.0
 selenium==3.14.0
 urllib3==1.23
 xlrd==1.1.0
